@@ -3,5 +3,5 @@
 .RData
 .Ruserdata
 .DS_Store
-merged_data_age_gender_PID5_final.sav
-stud2011_adoreport_raw_Victor.sav
+data/merged_data_age_gender_PID5_final.sav
+data/stud2011_adoreport_raw_Victor.sav
